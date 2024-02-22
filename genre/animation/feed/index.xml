@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Animation &#8211; ToonTamilIndia</title>
+	<atom:link href="/genre/animation/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 16 Jan 2024 05:25:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/01/cropped-Screenshot_2022-12-04-09-19-50-463-edit_com.camerasideas.trimmer-1-32x32.jpg</url>
+	<title>Animation &#8211; ToonTamilIndia</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Shangri-La Frontier</title>
+		<link>/anime/shangri-la-frontier-tamil/</link>
+					<comments>/anime/shangri-la-frontier-tamil/#respond</comments>
+		
+		<dc:creator><![CDATA[ToonaTamilIndia]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2024 05:13:46 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=anime#038;p=66</guid>
+
+					<description><![CDATA[Rakuro Hizutome only cares about one thing: beating crappy VR games. He devotes his entire life to these buggy games and could clear them all in his sleep. One day, he decides to challenge himself and play a popular god-tier game called Shangri-La Frontier. But he quickly learns just how difficult it is. Will his [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Rakuro Hizutome only cares about one thing: beating crappy VR games. He devotes his entire life to these buggy games and could clear them all in his sleep. One day, he decides to challenge himself and play a popular god-tier game called Shangri-La Frontier. But he quickly learns just how difficult it is. Will his expert skills be enough to uncover its hidden secrets?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/anime/shangri-la-frontier-tamil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
